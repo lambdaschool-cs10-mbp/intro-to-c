@@ -14,9 +14,10 @@ Introduction to C
 * [ ] function that accepts your fovorite color, returns the index from the array
 
 ## standard input out [source](https://www.tutorialspoint.com/c_standard_library/stdio_h.htm)
-[ ] printf
-[ ] scanf
-[ ] fprintf
+[x] printf
+- printf() function in C language: In C programming language, printf() function is used to print the “character, string, float, integer, octal and hexadecimal values” onto the output screen. We use printf() function with %d format specifier to display the value of an integer variable.
+[x] scanf
+[x] fprintf
 [ ] sprintf
 [ ] snprintf
 
